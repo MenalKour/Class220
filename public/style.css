@@ -81,7 +81,9 @@
   align-items: center;
   justify-content: center;
 }
-
+.background_red{
+  background-color: #f6484a
+}
 .main_message_container > input {
   height: 50px;
   flex: 1;
